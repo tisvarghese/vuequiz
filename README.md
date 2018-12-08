@@ -1,2 +1,2 @@
 # vuequiz
-Quiz application using vuejs and firebase
+Quiz application using vuejs and firebase Still under development [Not recommended for use till version 1.0 is released]
